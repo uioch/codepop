@@ -15,3 +15,4 @@ Please feel free to provide any suggestions or problems you wish to solve: uioch
 * OCR: OCR on an image
 * PoseDetector: Detect human pose on an image
 * SR_TTS: Speech Recognize and Text To Speech
+* WebpageAuto: Automatical web page control
