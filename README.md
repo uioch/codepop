@@ -14,6 +14,7 @@ Please feel free to provide any suggestions or problems you wish to solve: uioch
 
 * AsCrapy: Scrapy Demo
 * Hanzi2Number: Convert a Hanzi String to a Number
+* MineSweeper: A Mine Sweeper Game using turtle
 * OCR: OCR on an image
 * PoseDetector: Detect human pose on an image
 * ScreenGrab: Grab Screen to an image
