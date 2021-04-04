@@ -130,9 +130,9 @@ def open_boxes(i, j):
 def check_it():
     for i in range(N):
         for j in range(N):
-            if mines[i][j] != 1:
-                continue
-            if flags[i][j] != 2:
+            if mines[i][j] == 0 and flags[i][j] == 2:
+                return False
+            elif mines[i][j] == 1 and flags[i][j] != 2:
                 return False
     return True
 
